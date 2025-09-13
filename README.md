@@ -1,5 +1,12 @@
 # System Admin Panel Demo (Surya Allied Services Experience Showcase)
 
+![React](https://img.shields.io/badge/Frontend-React-blue)
+![TypeScript](https://img.shields.io/badge/Language-TypeScript-3178C6)
+![Node.js](https://img.shields.io/badge/Backend-Node.js-green)
+![MySQL](https://img.shields.io/badge/Database-MySQL-orange)
+![AWS CloudFront](https://img.shields.io/badge/Cloud-AWS%20CloudFront-yellow)
+![JUnit](https://img.shields.io/badge/Testing-JUnit-red)
+
 ## 📌 Overview
 This repository is a **demo project inspired by my short project duration at Surya Allied Services (2021)**.  
 As a Junior Java Developer, I worked on building an **admin panel, REST APIs, and deployment experiments**.  
