@@ -27,6 +27,15 @@ Since client code cannot be shared, this repo is designed to reflect my **contri
 
 ---
 
+## 📸 Demo Screenshots
+
+### Frontend – Admin Panel
+![Frontend Screenshot](./docs/frontend.png)
+
+### Backend – API Response
+![Backend Screenshot](./docs/backend.png)
+
+
 ## 🏗️ Demo Architecture
 
 ```mermaid
